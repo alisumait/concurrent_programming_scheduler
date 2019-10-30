@@ -1,0 +1,33 @@
+
+Doctors Available: 10
+Doctor: Mia
+Doctor: Randolph
+Doctor: Kester
+Doctor: John
+Doctor: Brogan
+Doctor: Mooney
+Doctor: Lila
+Doctor: Valdez
+Doctor: Mcclain
+Doctor: Kerri
+Doctor: Patients
+Doctors Performance Report : 
+----------------------------------------------------------------
+Doctor | Clinic | Total Working Time | Treated Patients | Patients Avg Waiting Time | patients Avg Consultation Time
+Mia    |    C-1     |     95     |     8     |     0.25     |     0.0
+Randolph    |    C-2     |     95     |     8     |     0.5     |     0.0
+Kester    |    C-3     |     95     |     8     |     0.0     |     0.0
+John    |    C-4     |     95     |     8     |     0.5     |     0.0
+Brogan    |    C-5     |     95     |     8     |     0.0     |     0.0
+Mooney    |    C-6     |     95     |     8     |     0.0     |     0.0
+Lila    |    C-7     |     95     |     8     |     0.0     |     0.0
+Valdez    |    C-8     |     95     |     8     |     0.5     |     0.0
+Mcclain    |    C-9     |     95     |     8     |     1.0     |     0.0
+Kerri    |    C-10     |     110     |     8     |     1.0     |     0.0
+----------------------------------------------------------------
+================================================================
+OverAll Report : 
+Number Of Patients Total Visits : 80
+Total Number Of Treated :80
+Total Patients Avg ConsultationTime : 0.0
+Total Patients AvgWaitingTime : 0.375
